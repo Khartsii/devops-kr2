@@ -1,3 +1,4 @@
+# KR2: Khartsii
 import os
 import socket
 
